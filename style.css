@@ -1,0 +1,115 @@
+
+#hero {
+    position: relative;
+}
+
+#hero video {
+    height: 100vh;
+    width: 100%;
+    background-position: absolute;
+    z-index: 10;
+    object-fit: cover;
+    /*for internet explorer */
+    font-family: 'object-fit:cover;';
+
+}
+
+#hero .content {
+    background: rgba(0,0,0,0.25);
+    height: 100%;
+    width: 100%;
+    z-index: 20;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+#hero .content h1 {
+    color:white;
+    font-weight: 600;
+
+}
+
+#hero .content h3 {
+    color: white;
+    font-weight: 300;
+
+}
+
+
+
+#hero {
+    position: relative;
+}
+
+#hero video {
+    height: 100vh;
+    width: 100%;
+    background-position: absolute;
+    z-index: 10;
+    object-fit: cover;
+    /*for internet explorer */
+    font-family: 'object-fit:cover;';
+
+}
+
+#hero .content {
+    background: rgba(0,0,0,0.5);
+    height: 100%;
+    width: 100%;
+    z-index: 20;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+#hero .content h1 {
+    color:white;
+    font-weight: 600;
+
+}
+
+#hero .content h3 {
+    color: white;
+    font-weight: 300;
+
+}
+
+#hero {
+    position: relative;
+}
+
+#hero video {
+    height: 100vh;
+    width: 100%;
+    background-position: absolute;
+    z-index: 10;
+    object-fit: cover;
+    /*for internet explorer */
+    font-family: 'object-fit:cover;';
+
+}
+
+#hero .content {
+    background: rgba(0,0,0,0.5);
+    height: 100%;
+    width: 100%;
+    z-index: 20;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+
+#hero .content h1 {
+    color:white;
+    font-weight: 600;
+
+}
+
+#hero .content h3 {
+    color: white;
+    font-weight: 300;
+}
